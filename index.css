@@ -88,7 +88,7 @@ html, body{
     font-size: 18px;
 }
 .container-fluid .row .col-9 .row2 .col-3 .card .btn.add-cart:hover{
-    background-color: black;
+    background-color: blue;
 }
 .gach{
     width: 50px;
