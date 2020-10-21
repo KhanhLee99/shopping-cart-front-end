@@ -82,13 +82,13 @@ html, body{
 .container-fluid .row .col-9 .row2 .col-3 .card .btn.add-cart{
     border-radius: 0;
     padding: 13px 0;
-    background-color: #EABF00;
+    background-color: red;
     border: none;
     font-weight: bold;
     font-size: 18px;
 }
 .container-fluid .row .col-9 .row2 .col-3 .card .btn.add-cart:hover{
-    background-color: black;
+    background-color: red;
 }
 .gach{
     width: 50px;
